@@ -5,3 +5,12 @@ body {
 h1, h3 {
     color: #6096B4;
 }
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+    
+}
