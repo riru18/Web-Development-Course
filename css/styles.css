@@ -61,6 +61,7 @@ p {
 
 .middle-container {
     padding-top: 100px;
+    padding-bottom: 100px;
 
 }
 
@@ -94,7 +95,6 @@ p {
     margin: 100px auto 100px auto;
     width: 50%;
     text-align: left;
-
 }
 
 .bottom-cloud {
@@ -111,7 +111,7 @@ p {
 
 .contact-me {
     width: 50%;
-    margin: auto auto 10% auto;
+    margin: auto;
 }
 
   .bottom-container {
